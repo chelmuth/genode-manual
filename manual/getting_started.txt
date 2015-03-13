@@ -298,7 +298,7 @@ which typically include the following steps:
 # Assembling a boot directory with all ingredients needed by the scenario,
 # Creating a boot image that can be loaded onto the target platform,
 # Booting the target platform with the boot image,
-# Validating the behaviour of the scenario.
+# Validating the behavior of the scenario.
 
 The recipe for such a sequence of steps can be expressed in the form of
 a so-called run script. Each run script represents a system scenario and
